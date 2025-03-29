@@ -1,2 +1,3 @@
 Assets/Images/sand.png - https://www.artstation.com/artwork/zD2oWd
-Assets/Shaders/water_normal.png - https://imgur.com/4bgAedW
+Assets/Shaders  - https://assetstore.unity.com/packages/2d/textures-materials/water/simple-water-shader-urp-191449 
+Assets/Sound/ocean-waves-250310.mp3 - Pixabay (Under Free Usage)
